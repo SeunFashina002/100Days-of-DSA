@@ -2,7 +2,7 @@
 
 #### Time complexity is not equal to the time taken for a program or code to get executed. This is because the time taken for a code to get executed can vary on different operating systems or machines.
 
-#### <br><u>**_So what then is time complexity ?_**</u>
+### <br>**_So what then is time complexity ?_**
 
 #### Time complexity is the rate at which the time taken for a code or program to execute increases with respect to the size of an input.
 
