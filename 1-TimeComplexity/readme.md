@@ -2,7 +2,7 @@
 
 #### Time complexity is not equal to the time taken for a program or code to get executed. This is because the time taken for a code to get executed can vary on different operating systems or machines.
 
-#### <br><u>**_So what then is time complexity ?_**</u>
+### <br>**_So what then is time complexity ?_**
 
 #### Time complexity is the rate at which the time taken for a code or program to execute increases with respect to the size of an input.
 
@@ -17,3 +17,10 @@
 > _Time complexity is measured in Big-O-notation O(n)._
 
 #### Big-O-notation is the number of steps taken for a code or program to execute.
+
+# <br>**Space Complexity**
+
+#### Space complexity is the memory space that your program takes consumes. Technically, it is the combination of auxiliary space and and input space.
+
+- Auxiliary Space:
+- Input Space:
