@@ -27,10 +27,3 @@ for (let i = 0; i < 5; i++) {
   console.log("");
 }
 
-// function logSpace(n) {
-//   for (let i = 0; i < n; i++) {
-//     process.stdout.write(" ");
-//   }
-// }
-
-// logSpace(5);
